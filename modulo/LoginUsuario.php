@@ -34,6 +34,9 @@
                                 <option>Selecione uma opção</option>
                                 <option>Sim, eu tenho uma senha</option>
                                 <option>Não, eu tenho uma senha</option>
+                                <div class="form-group">
+                                <button type="submit" class="btn btn-success"></button>
+                                </div>
                             </select>
                         </div>
                         <div class="form-group">
